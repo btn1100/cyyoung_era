@@ -4,3 +4,4 @@
  on the choices the user makes
 * Creates a database named baseball.sqlite if one does not already exist
 * First time the era or cy funtions are called, checks if the cyyoung or era tables exists, if not, will create them
+* Requires numpy, pandas and lxml modules installed
